@@ -1,5 +1,13 @@
 # Fast.ai - Deep Learning course (v3)
 
+## Week 2 ()
+
+### 22 Nov 2019
+
+- Watched lecture 2
+
+## Week 1 (~8h)
+
 ### 22 Nov 2019
 
 - Installed kaggle cli `pip install kaggle`
