@@ -4,7 +4,7 @@
 
 - Installed kaggle cli `pip install kaggle`
 - Downloaded mushroom genus classification dataset from Kaggle `kaggle datasets download maysee/mushrooms-classification-common-genuss-images`
-- Using mushroom dataset, achieved error rate of 14.5%
+- Using mushroom dataset, achieved error rate of 11%
 
 ### 21 Nov 2019
 
